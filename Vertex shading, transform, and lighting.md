@@ -1,0 +1,1 @@
+- It transforms vertices and assigns per-vertex values (e.g., colors, normals, texture coordinates, tangents). The shading is done by the pixel shader hard-ware.

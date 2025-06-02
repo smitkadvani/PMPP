@@ -1,0 +1,1 @@
+- Geometry shader programs operate on primitives defined by multiple vertices, changing them or generating additional primitives

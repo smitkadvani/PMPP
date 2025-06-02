@@ -1,0 +1,3 @@
+- The finer the sizes of the triangles are, the better the quality of the picture typically becomes. 
+- The vertex control stage in Figure 2.1 receives parameterized triangle data from the CPU. 
+- The vertex control stage then converts the triangle data into a form that the hardware understands and places the prepared data into the vertex cache.

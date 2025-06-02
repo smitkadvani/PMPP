@@ -1,0 +1,1 @@
+- Vertex shader programs map the positions of triangle vertices onto the screen, altering their position, color, or orientation.

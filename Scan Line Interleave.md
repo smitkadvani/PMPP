@@ -1,0 +1,1 @@
+- Scan-Line Interleave (SLI) is a multi-GPU method developed by 3DFX for linking two (or more) video cards or chips together to produce a single output. It is an application of parallel processing for computer graphics, meant to increase the processing power available for graphics
